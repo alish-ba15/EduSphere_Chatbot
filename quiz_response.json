@@ -1,0 +1,35 @@
+{
+    "1": {
+        "no": "1",
+        "mcq": "Which data structure is best described as 'Last In, First Out'?",
+        "options": {
+            "a": "Stack",
+            "b": "Queue",
+            "c": "Linked List",
+            "d": "Array"
+        },
+        "correct": "a"
+    },
+    "2": {
+        "no": "2",
+        "mcq": "In which real-world scenario would a queue data structure be most useful?",
+        "options": {
+            "a": "Undoing actions in a text editor",
+            "b": "Serving customers in a call center",
+            "c": "Storing a list of songs in a playlist",
+            "d": "Managing a database of employees"
+        },
+        "correct": "b"
+    },
+    "3": {
+        "no": "3",
+        "mcq": "What is a key advantage of using a linked list over an array?",
+        "options": {
+            "a": "Faster searching",
+            "b": "Easier insertion and deletion of elements",
+            "c": "More efficient memory usage",
+            "d": "Improved data security"
+        },
+        "correct": "b"
+    }
+}

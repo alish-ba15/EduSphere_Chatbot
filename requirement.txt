@@ -1,0 +1,12 @@
+streamlit
+pandas
+langchain_google_genai
+beautifulsoup4
+langchain
+langchain-community
+langchain-google-genai
+langchain-core
+python-dotenv
+PyPDF
+
+
