@@ -10,8 +10,8 @@ Welcome to the GDG Kolachi Devfest 2024 - Hackathon - GitHub Classroom Assignmen
 ## Checklist for Submission:
 __Please make sure to complete this checklist before submission.__
 > You can check the box by adding x in between [], i.e. [x], when editing README.md.
-- [ ] Upload the video to YouTube or Google Drive and add the link here: <LINK>
-- [ ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <VIDEO_LINK_HERE>
+- [x] Upload the video to YouTube or Google Drive and add the link here: <https://drive.google.com/file/d/1G16blCfNu_H2TMcFIYQ1cwGSdEDxDnFN/view?usp=sharing>
+- [x] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://drive.google.com/file/d/1G16blCfNu_H2TMcFIYQ1cwGSdEDxDnFN/view?usp=sharing>
 - [ ] Upload presentation (pitch deck) of your project: <PRESENTATION_LINK>
 
 - [ ] I have made sure all the links added are shareable and the content is accessible.
