@@ -12,9 +12,9 @@ __Please make sure to complete this checklist before submission.__
 > You can check the box by adding x in between [], i.e. [x], when editing README.md.
 - [x] Upload the video to YouTube or Google Drive and add the link here: <https://drive.google.com/file/d/1G16blCfNu_H2TMcFIYQ1cwGSdEDxDnFN/view?usp=sharing>
 - [x] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://drive.google.com/file/d/1G16blCfNu_H2TMcFIYQ1cwGSdEDxDnFN/view?usp=sharing>
-- [ ] Upload presentation (pitch deck) of your project: <PRESENTATION_LINK>
+- [x] Upload presentation (pitch deck) of your project: https://sg.docworkspace.com/d/sINOal-h_yfPSugY?sa=601.1123
 
-- [ ] I have made sure all the links added are shareable and the content is accessible.
+- [x] I have made sure all the links added are shareable and the content is accessible.
 
 ## GDG Kolachi Devfest 2024 - Hackathon - Overview
 
