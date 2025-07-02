@@ -7,13 +7,14 @@
 
 # <code> ❯ EduSphere</code>
 
-<em><b>EduSphere<b> is an AI-powered educational assistant that combines the capabilities of **LangChain**, **LLMs (like OpenAI GPT)**, and **Streamlit** to deliver:
+<code>EduSphere is an AI-powered educational assistant that combines the capabilities of **LangChain**, **LLMs (like OpenAI GPT)**, and **Streamlit** to deliver:
 - Natural language interaction for learning
 - Automated quiz generation from documents
-- PDF-based Q&A using vector search and embeddings</em>
+- PDF-based Q&A using vector search and embeddings</code>
 
 <!-- BADGES -->
 <!-- local repository, no metadata badges. -->
+---
 
 <em>Built with the tools and technologies:</em>
 
@@ -23,31 +24,6 @@
 
 </div>
 <br>
-
----
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-    - [Project Index](#project-index)
-- [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
-## Overview
-
-
 
 ---
 
@@ -64,12 +40,12 @@
 ## 🧰 Tech Stack
 
 <code>
-- **LangChain**
-- **OpenAI API**
-- **Streamlit**
-- **FAISS / ChromaDB**
-- **Python 3.x**
-- **Tiktoken, PyPDF2, SentenceTransformers** </code>
+- LangChain
+- OpenAI API
+- Streamlit
+- FAISS / ChromaDB
+- Python 
+- Tiktoken, PyPDF2, SentenceTransformers </code>
 
 ---
 
