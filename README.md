@@ -7,10 +7,10 @@
 
 # <code> ❯ EduSphere</code>
 
-<code>EduSphere is an AI-powered educational assistant that combines the capabilities of LangChain, LLMs (like OpenAI GPT), and Streamlit to deliver:
+<em>EduSphere is an AI-powered educational assistant that combines the capabilities of LangChain, LLMs (like OpenAI GPT), and Streamlit to deliver:
 - Natural language interaction for learning
 - Automated quiz generation from documents
-- PDF-based Q&A using vector search and embeddings</code>
+- PDF-based Q&A using vector search and embeddings</em>
 
 <!-- BADGES -->
 <!-- local repository, no metadata badges. -->
@@ -29,23 +29,23 @@
 
 ## Features
 
-<code> 
+<em> 
 - 🧠 Conversational AI chatbot for students
 - 📄 Upload PDF documents and ask questions
 - 🧪 Auto-generate MCQ quizzes from content
 - ⚡ Real-time responses using OpenAI API
-- 🔍 Document retrieval using FAISS or ChromaDB</code>
+- 🔍 Document retrieval using FAISS or ChromaDB</em>
 
 ---
 ## 🧰 Tech Stack
 
-<code>
+<em>
 - LangChain
 - OpenAI API
 - Streamlit
 - FAISS / ChromaDB
 - Python 
-- Tiktoken, PyPDF2, SentenceTransformers </code>
+- Tiktoken, PyPDF2, SentenceTransformers </em>
 
 ---
 
