@@ -1,13 +1,13 @@
 <div id="top">
 
 <!-- HEADER STYLE: CLASSIC -->
-<div align="center">
+<div align="left">
 
 
 
 # <code> ❯ EduSphere</code>
 
-<code>EduSphere is an AI-powered educational assistant that combines the capabilities of **LangChain**, **LLMs (like OpenAI GPT)**, and **Streamlit** to deliver:
+<code>EduSphere is an AI-powered educational assistant that combines the capabilities of LangChain, LLMs (like OpenAI GPT), and Streamlit to deliver:
 - Natural language interaction for learning
 - Automated quiz generation from documents
 - PDF-based Q&A using vector search and embeddings</code>
