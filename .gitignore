@@ -1,3 +1,22 @@
-__pychache__/
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
 env/
+
+# Secrets and local environment files
 .env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated/local state
+Chroma_Indexing_db/
+quiz_response.json
+
+# Jupyter and editor/OS files
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
